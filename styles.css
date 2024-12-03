@@ -1,0 +1,140 @@
+.container{
+	display:flex;
+	height:120px;
+	width:99%;
+	align-items:center;
+	border-radius:10px;
+	flex-direction:column;
+    background-color:orange;
+    padding:20px:
+   
+  }
+    
+	
+  .input{
+	  align-items:center;
+	  justify-content:center;
+	  gap:5px;
+	  color:black;
+
+	 ;
+  }
+  
+	
+	
+  h2{
+	  font-size:23px;
+    }
+
+	 	.survey{
+		font-weight:bold;
+		}
+		
+	 
+	 .gts{
+		 height:900px;
+		 margin:10px 9px;
+		 width:100%;
+		 border-radius:10px;
+		 flex-direction:column;
+		 background-color:white;
+		 padding:5px;
+		 gap:15px;
+		 box-shadow:0 4px 6px rgba(0,0,0,0.3),0 1px 3px rgba(0,0,0,0.3);
+
+		 }
+	.input-icon{
+		align-items:center;
+		font-size:40px;
+		display:flex;
+		flex-direction:column;
+		margin-top:20px;
+	}
+.jve-c{
+		border-radius:10px;
+		height:400px;
+        display:flex;
+		flex-direction:column;
+		background-color:#127EB8;
+		margin:10px 3px;
+		width:90%;
+		color:white;
+
+		}
+	
+	.input-type{
+		height:30px;
+		border-radius:10px;
+		outline:none;
+		border:1px solid rgba(0,0,0,0.243);
+	}
+	
+	.inputb{
+			border-radius:10px;
+		outline:none;
+	}
+	
+		h3{
+		text-align:center;
+		font-size:23px;
+	}
+	
+		body{
+		font-family: 'poppins',sans-serif;
+		border-radius:10px;
+		background-image:url('./assets/jve.jpg');
+		background-size:cover;
+		background-repeat:no-repeat;
+		background-position:center;
+		}
+		
+     .jve-d{
+		margin:10px 10px;
+		display:flex;
+		flex-direction:column;
+		gap:7px;
+	
+	}
+		label{
+		margin:0px;
+		font-size:18px;
+	}
+	
+	
+		
+	.radio-container{
+		display:flex;
+		align-items:center;
+		gap:10px;
+	   }
+	   
+	input[type=radio]{
+		height:18px;
+		width:18px;
+	}
+	
+		.button{
+		background-color:#127EB8;
+		color:white;
+		border:none;
+		font-size:22x;
+		padding:10px 20px;
+		display:flex;
+		justify-content:center;
+		align-items:center;
+		border-radius:10px;
+		margin-left:80px;
+		width:50%;
+
+	}
+	
+	button:hover{
+		cursor:pointer;
+		background-color:rgba(0,128,0,0.612);
+		transition: 1s ease;
+		}
+		
+  input{
+	  gap;10;
+  }
+	
